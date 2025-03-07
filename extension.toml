@@ -1,0 +1,7 @@
+id = "bluloco-theme"
+name = "Bluloco Theme"
+version = "0.0.1"
+schema_version = 1
+authors = ["Umut Topuzoğlu <uloco@schiefewelt.de>"]
+description = "Bluloco theme for Zed editor"
+repository = "https://github.com/bluloco/bluloco-zed"
