@@ -76,8 +76,8 @@
         "editor.document_highlight.read_background": "#50749f5b",
         "editor.document_highlight.write_background": "#b629954f",
         "editor.document_highlight.bracket_background": null,
-        "terminal.background": null,
-        "terminal.foreground": null,
+        "terminal.background": "#282c34",
+        "terminal.foreground": "#abb2bf",
         "terminal.ansi.background": null,
         "terminal.bright_foreground": null,
         "terminal.dim_foreground": null,
@@ -452,8 +452,8 @@
         "editor.document_highlight.read_background": "#50749f5b",
         "editor.document_highlight.write_background": "#b629954f",
         "editor.document_highlight.bracket_background": null,
-        "terminal.background": null,
-        "terminal.foreground": null,
+        "terminal.background": "#282c34",
+        "terminal.foreground": "#abb2bf",
         "terminal.ansi.background": null,
         "terminal.bright_foreground": null,
         "terminal.dim_foreground": null,
@@ -828,8 +828,8 @@
         "editor.document_highlight.read_background": "#afcfff65",
         "editor.document_highlight.write_background": "#e99dd562",
         "editor.document_highlight.bracket_background": "#00000000",
-        "terminal.background": null,
-        "terminal.foreground": null,
+        "terminal.foreground": "#383a42",
+        "terminal.background": "#f9f9f9",
         "terminal.ansi.background": null,
         "terminal.bright_foreground": null,
         "terminal.dim_foreground": null,
@@ -1204,8 +1204,8 @@
         "editor.document_highlight.read_background": "#afcfff65",
         "editor.document_highlight.write_background": "#e99dd562",
         "editor.document_highlight.bracket_background": "#00000000",
-        "terminal.background": null,
-        "terminal.foreground": null,
+        "terminal.foreground": "#383a42",
+        "terminal.background": "#f9f9f9",
         "terminal.ansi.background": null,
         "terminal.bright_foreground": null,
         "terminal.dim_foreground": null,
@@ -1509,3 +1509,4 @@
     }
   ]
 }
+
